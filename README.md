@@ -55,13 +55,4 @@ Dengan tampilan yang ceria, modern, dan responsif, aplikasi ini memberikan penga
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
-- 🔐 Login user & admin
-- 📦 Manajemen stok buah
-- 🧾 Penyimpanan data transaksi
-- 📊 Laporan penjualan
-- ☁️ Deploy ke hosting online
-
----
-
 🌟 **Toko Buah Ceria — Segar, Sehat, dan Penuh Warna!**
